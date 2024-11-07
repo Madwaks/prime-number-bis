@@ -4,9 +4,7 @@ from math import sqrt
 
 
 def isprime(p):
-
     # votre code ici
-
     pass
 
 #### Fonction principale
